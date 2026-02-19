@@ -25,7 +25,7 @@ function renderHero() {
   });
 }
 
-renderHero();
+// renderHero();
 
 //render skills section
 function renderSkills() {

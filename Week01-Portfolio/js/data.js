@@ -4,7 +4,7 @@ const portfolioData = {
     hero: {
     intro: "WELCOME TO MY WORLD",
     name: "Gauri Bhasme",
-    title: "Professional Developer",
+    title: "Full Stack Learner | Aspiring Software Developer",
     description:
       "I build modern web experiences that are clean, responsive, and user-friendly.",
     image: "./assets/profile.jpg",
@@ -71,22 +71,22 @@ const portfolioData = {
     name: "Portfolio Website",
     tag: "Frontend",
     description: "A responsive personal portfolio with dynamic rendering and modern UI.",
-    github: "https://github.com/yourname/portfolio",
+    github: "https://github.com/Gauri-2044/portfolio",
     tech: ["HTML", "CSS", "JavaScript"]
   },
   {
-    name: "Task Manager App",
+    name: "Banking App",
     tag: "Full Stack",
-    description: "A productivity app to manage daily tasks with clean UI and persistence.",
-    github: "https://github.com/yourname/task-manager",
-    tech: ["React", "Node.js", "MongoDB"]
+    description: "A banking application with user authentication and transaction management.",
+    github: "https://github.com/Gauri-2044/banking-app",
+    tech: ["HTML", "CSS", "Flask", "SQLite"]
   },
   {
-    name: "Weather Dashboard",
-    tag: "API Project",
-    description: "Real-time weather dashboard using API integration and responsive layout.",
-    github: "https://github.com/yourname/weather-app",
-    tech: ["JavaScript", "API", "CSS"]
+    name: "Mood Map",
+    tag: "AI chatbot",
+    description: "An AI-powered chatbot and mental health scoring platform for user support.",
+    github: "https://github.com/Gauri-2044/mood-map",
+    tech: ["HTML", "CSS", "JavaScript","Flask", "API", "Gemini"]
   }
   ],
 
@@ -153,11 +153,11 @@ const portfolioData = {
   // ---------------contact section--------------------
 
   contact: {
-    email: "",
-    linkedin: "#",
-    github: "#"
-  }, 
-  
+    email: "gauribhasme43@gmail.com",
+    linkedin: "https://www.linkedin.com/in/gauri-b-1bbb21290",
+    github: "https://github.com/Gauri-2044"
+  },
+
   interests: ["UI/UX Design", "Open Source Contribution", "Tech Blogging"]
 
 
